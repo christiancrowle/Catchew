@@ -5,7 +5,7 @@ Catchew is a pokemon breeding viability calculator with a simple command set. En
 
 All of the code is in a single file. Just run `catchew.py` with python3 and start entering commands.
 
-Command set: (where <pokemon> is the pokemon being operated on, <gender> is one of M or F, and <region> is either ENG, or something else)
+Command set: (where pokemon is the pokemon being operated on, gender is one of M or F, and region is either ENG, or something else)
 ```
 "ca <pokemon>!<gender>!<region>": add a pokemon to the box
 "re <pokemon>!<gender>!<region>": release a pokemon
